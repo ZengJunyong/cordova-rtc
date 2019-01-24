@@ -28,6 +28,7 @@ var app = {
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
+        document.location="https://zengjunyong.github.io/rtc-h5/dist/h5/"
     },
 
     // Update DOM on a Received Event

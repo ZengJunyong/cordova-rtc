@@ -1,4 +1,4 @@
-#Thu Jan 24 09:09:07 CST 2019
+#Thu Jan 24 09:28:04 CST 2019
 base.0=/Users/yong/mili/cordova/upad/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package io.cordova.hellocordova;
+package screen.upad.zsp;
 
 public final class R {
   public static final class drawable {
